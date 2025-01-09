@@ -6,7 +6,6 @@ class Plants {
   final String description;
   final double price;
   final bool isFavorit;
-
   Plants({
     required this.id,
     required this.name,

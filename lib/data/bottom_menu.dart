@@ -10,4 +10,5 @@ List<BottomMenu> bottomMenu = [
   BottomMenu(1, 'assets/icons/heart.png'),
   BottomMenu(2, 'assets/icons/cart.png'),
   BottomMenu(3, 'assets/icons/settings.png'),
+  
 ];

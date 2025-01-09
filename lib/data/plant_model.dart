@@ -16,5 +16,4 @@ class Plants {
     required this.price,
     required this.isFavorit,
   });
-  
 }

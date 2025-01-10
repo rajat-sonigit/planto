@@ -10,4 +10,5 @@ List<Category> categories = [
   Category(2, 'Indoor'),
   Category(3, 'Office'),
   Category(4, 'Garden'),
+
 ];

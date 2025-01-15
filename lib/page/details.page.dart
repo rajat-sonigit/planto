@@ -32,6 +32,7 @@ class DetailsPage extends StatelessWidget {
                       bottomLeft: Radius.circular(60),
                       bottomRight: Radius.circular(60),
                     ),
+                    
                     image: DecorationImage(
                       image: AssetImage(plant.imagePath),
                       fit: BoxFit.cover,

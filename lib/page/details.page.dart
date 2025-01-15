@@ -27,6 +27,7 @@ class DetailsPage extends StatelessWidget {
                         offset: const Offset(0, 5),
                       ),
                     ],
+                    
                     borderRadius: const BorderRadius.only(
                       bottomLeft: Radius.circular(60),
                       bottomRight: Radius.circular(60),

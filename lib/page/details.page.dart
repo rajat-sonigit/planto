@@ -39,6 +39,7 @@ class DetailsPage extends StatelessWidget {
                     ),
                   ),
                 ),
+                
                 Padding(
                   padding: const EdgeInsets.symmetric(
                       horizontal: 20.0, vertical: 20.0),
